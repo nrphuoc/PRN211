@@ -1,0 +1,64 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\images\aboutus.jpg" />
+    <None Include="wwwroot\images\aboutus2.jpg" />
+    <None Include="wwwroot\images\aboutus3.jpg" />
+    <None Include="wwwroot\images\AN-AllOfMe.jpg" />
+    <None Include="wwwroot\images\AN-Forever.jpg" />
+    <None Include="wwwroot\images\AN-PinkDream.jpg" />
+    <None Include="wwwroot\images\AN-SweetThoughts.jpg" />
+    <None Include="wwwroot\images\banner_sale1.png" />
+    <None Include="wwwroot\images\banner_sale2.png" />
+    <None Include="wwwroot\images\bgpink.png" />
+    <None Include="wwwroot\images\calendar_2.png" />
+    <None Include="wwwroot\images\CO-BeautifulDay.jpg" />
+    <None Include="wwwroot\images\CO-NewDay.jpg" />
+    <None Include="wwwroot\images\CO-Silent.jpg" />
+    <None Include="wwwroot\images\connectwithus.png" />
+    <None Include="wwwroot\images\DE-ReachingHearts.jpg" />
+    <None Include="wwwroot\images\DE-WarmSunny.jpg" />
+    <None Include="wwwroot\images\DE-Wonder.jpg" />
+    <None Include="wwwroot\images\facebook.png" />
+    <None Include="wwwroot\images\location.png" />
+    <None Include="wwwroot\images\logo-2.png" />
+    <None Include="wwwroot\images\logo.png" />
+    <None Include="wwwroot\images\lovebanner.png" />
+    <None Include="wwwroot\images\newflowertitle.png" />
+    <None Include="wwwroot\images\readmore.png" />
+    <None Include="wwwroot\images\RO-ColorOfLove.jpg" />
+    <None Include="wwwroot\images\RO-FallingInLove.jpg" />
+    <None Include="wwwroot\images\RO-ToldMe.jpg" />
+    <None Include="wwwroot\images\shopname.png" />
+    <None Include="wwwroot\images\slider_1.jpg" />
+    <None Include="wwwroot\images\slider_2.jpg" />
+    <None Include="wwwroot\images\slider_3.gif" />
+    <None Include="wwwroot\images\slider_4.jpg" />
+    <None Include="wwwroot\images\slogan.png" />
+    <None Include="wwwroot\images\twitter.png" />
+    <None Include="wwwroot\images\WD-LoveLetter.jpg" />
+    <None Include="wwwroot\images\WD-MagicMoments.jpg" />
+    <None Include="wwwroot\images\WD-SpringPoetry.jpg" />
+    <None Include="wwwroot\images\welcometitle.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Session" Version="2.2.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.10">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.10" />
+    <PackageReference Include="Microsoft.Extensions.Caching.Memory" Version="6.0.1" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="6.0.0" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.10" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+	<PackageReference Include="Microsoft.AspNetCore.JsonPatch" Version="6.0.0" />
+	<PackageReference Include="Microsoft.Extensions.Caching.Abstractions" Version="6.0.0" />  
+  </ItemGroup>
+
+</Project>

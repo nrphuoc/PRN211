@@ -1,0 +1,141 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ShopFlower
+build_property.RootNamespace = ShopFlower
+build_property.ProjectDir = C:\Users\admin\AppData\Local\Temp\MicrosoftEdgeDownloads\c7920b2e-7919-4ac6-a980-909a223b8714\PRN211.M4_Group7_Project\ShopFlower\ShopFlower\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\admin\AppData\Local\Temp\MicrosoftEdgeDownloads\c7920b2e-7919-4ac6-a980-909a223b8714\PRN211.M4_Group7_Project\ShopFlower\ShopFlower
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/admin/AppData/Local/Temp/MicrosoftEdgeDownloads/c7920b2e-7919-4ac6-a980-909a223b8714/PRN211.M4_Group7_Project/ShopFlower/ShopFlower/Areas/Admin/Views/Stock/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU3RvY2tcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/AppData/Local/Temp/MicrosoftEdgeDownloads/c7920b2e-7919-4ac6-a980-909a223b8714/PRN211.M4_Group7_Project/ShopFlower/ShopFlower/Areas/Admin/Views/Stock/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU3RvY2tcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/AppData/Local/Temp/MicrosoftEdgeDownloads/c7920b2e-7919-4ac6-a980-909a223b8714/PRN211.M4_Group7_Project/ShopFlower/ShopFlower/Areas/Admin/Views/Stock/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU3RvY2tcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/AppData/Local/Temp/MicrosoftEdgeDownloads/c7920b2e-7919-4ac6-a980-909a223b8714/PRN211.M4_Group7_Project/ShopFlower/ShopFlower/Areas/Admin/Views/Store/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU3RvcmVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/AppData/Local/Temp/MicrosoftEdgeDownloads/c7920b2e-7919-4ac6-a980-909a223b8714/PRN211.M4_Group7_Project/ShopFlower/ShopFlower/Areas/Admin/Views/Store/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU3RvcmVcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/AppData/Local/Temp/MicrosoftEdgeDownloads/c7920b2e-7919-4ac6-a980-909a223b8714/PRN211.M4_Group7_Project/ShopFlower/ShopFlower/Areas/Admin/Views/Store/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU3RvcmVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/AppData/Local/Temp/MicrosoftEdgeDownloads/c7920b2e-7919-4ac6-a980-909a223b8714/PRN211.M4_Group7_Project/ShopFlower/ShopFlower/Views/Bill/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlsbFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/AppData/Local/Temp/MicrosoftEdgeDownloads/c7920b2e-7919-4ac6-a980-909a223b8714/PRN211.M4_Group7_Project/ShopFlower/ShopFlower/Views/Cart/Cart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxDYXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/AppData/Local/Temp/MicrosoftEdgeDownloads/c7920b2e-7919-4ac6-a980-909a223b8714/PRN211.M4_Group7_Project/ShopFlower/ShopFlower/Views/Customer/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/AppData/Local/Temp/MicrosoftEdgeDownloads/c7920b2e-7919-4ac6-a980-909a223b8714/PRN211.M4_Group7_Project/ShopFlower/ShopFlower/Views/Customer/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/AppData/Local/Temp/MicrosoftEdgeDownloads/c7920b2e-7919-4ac6-a980-909a223b8714/PRN211.M4_Group7_Project/ShopFlower/ShopFlower/Views/Customer/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/AppData/Local/Temp/MicrosoftEdgeDownloads/c7920b2e-7919-4ac6-a980-909a223b8714/PRN211.M4_Group7_Project/ShopFlower/ShopFlower/Views/Customer/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/AppData/Local/Temp/MicrosoftEdgeDownloads/c7920b2e-7919-4ac6-a980-909a223b8714/PRN211.M4_Group7_Project/ShopFlower/ShopFlower/Views/Customer/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/AppData/Local/Temp/MicrosoftEdgeDownloads/c7920b2e-7919-4ac6-a980-909a223b8714/PRN211.M4_Group7_Project/ShopFlower/ShopFlower/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/AppData/Local/Temp/MicrosoftEdgeDownloads/c7920b2e-7919-4ac6-a980-909a223b8714/PRN211.M4_Group7_Project/ShopFlower/ShopFlower/Views/Home/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/AppData/Local/Temp/MicrosoftEdgeDownloads/c7920b2e-7919-4ac6-a980-909a223b8714/PRN211.M4_Group7_Project/ShopFlower/ShopFlower/Views/Home/LoginAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbkFkbWluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/AppData/Local/Temp/MicrosoftEdgeDownloads/c7920b2e-7919-4ac6-a980-909a223b8714/PRN211.M4_Group7_Project/ShopFlower/ShopFlower/Views/Product/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/AppData/Local/Temp/MicrosoftEdgeDownloads/c7920b2e-7919-4ac6-a980-909a223b8714/PRN211.M4_Group7_Project/ShopFlower/ShopFlower/Views/Product/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/AppData/Local/Temp/MicrosoftEdgeDownloads/c7920b2e-7919-4ac6-a980-909a223b8714/PRN211.M4_Group7_Project/ShopFlower/ShopFlower/Views/Product/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/AppData/Local/Temp/MicrosoftEdgeDownloads/c7920b2e-7919-4ac6-a980-909a223b8714/PRN211.M4_Group7_Project/ShopFlower/ShopFlower/Views/Product/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/AppData/Local/Temp/MicrosoftEdgeDownloads/c7920b2e-7919-4ac6-a980-909a223b8714/PRN211.M4_Group7_Project/ShopFlower/ShopFlower/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/AppData/Local/Temp/MicrosoftEdgeDownloads/c7920b2e-7919-4ac6-a980-909a223b8714/PRN211.M4_Group7_Project/ShopFlower/ShopFlower/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/AppData/Local/Temp/MicrosoftEdgeDownloads/c7920b2e-7919-4ac6-a980-909a223b8714/PRN211.M4_Group7_Project/ShopFlower/ShopFlower/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/AppData/Local/Temp/MicrosoftEdgeDownloads/c7920b2e-7919-4ac6-a980-909a223b8714/PRN211.M4_Group7_Project/ShopFlower/ShopFlower/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/AppData/Local/Temp/MicrosoftEdgeDownloads/c7920b2e-7919-4ac6-a980-909a223b8714/PRN211.M4_Group7_Project/ShopFlower/ShopFlower/Views/Staff/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhZmZcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/AppData/Local/Temp/MicrosoftEdgeDownloads/c7920b2e-7919-4ac6-a980-909a223b8714/PRN211.M4_Group7_Project/ShopFlower/ShopFlower/Views/Staff/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhZmZcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/AppData/Local/Temp/MicrosoftEdgeDownloads/c7920b2e-7919-4ac6-a980-909a223b8714/PRN211.M4_Group7_Project/ShopFlower/ShopFlower/Views/Staff/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhZmZcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/AppData/Local/Temp/MicrosoftEdgeDownloads/c7920b2e-7919-4ac6-a980-909a223b8714/PRN211.M4_Group7_Project/ShopFlower/ShopFlower/Views/Staff/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhZmZcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/AppData/Local/Temp/MicrosoftEdgeDownloads/c7920b2e-7919-4ac6-a980-909a223b8714/PRN211.M4_Group7_Project/ShopFlower/ShopFlower/Views/Staff/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhZmZcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/AppData/Local/Temp/MicrosoftEdgeDownloads/c7920b2e-7919-4ac6-a980-909a223b8714/PRN211.M4_Group7_Project/ShopFlower/ShopFlower/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/AppData/Local/Temp/MicrosoftEdgeDownloads/c7920b2e-7919-4ac6-a980-909a223b8714/PRN211.M4_Group7_Project/ShopFlower/ShopFlower/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

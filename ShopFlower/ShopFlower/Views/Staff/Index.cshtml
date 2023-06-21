@@ -1,0 +1,112 @@
+﻿@model IEnumerable<ShopFlower.Models.Staff>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Staffs in Shop</h1>
+
+<br />
+<div class="row">
+    <p class="col-sm-3">
+        <a asp-action="Create">Create New</a>
+    </p>
+    <p class="col-sm-3">
+
+    </p>
+    <p class="col-sm-3">
+
+    </p>
+    <div class="col-sm-3">
+        <input class="form-control" type="text" id="myInput" onkeyup="findByName()" placeholder="Search By UserName">
+    </div>
+</div>
+<br />
+
+<table class="table" id="myTable">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Username)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Password)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Phone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Address)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Store)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Staff item in ViewBag.Staff)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Username)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Password)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Email)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Phone)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Address)
+                </td>
+                <td>
+                    @{
+                        foreach (Store s in ViewBag.Store)
+                        {
+                            if (item.StoreId == s.StoreId)
+                            {
+                                @Html.DisplayFor(modelItem => s.Storename)
+                                break;
+                            }
+                        }
+                    }
+
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.StaffId">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.StaffId">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.StaffId">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<script>
+    function findByName() {
+        var input, filter, table, tr, td, i, txtValue;
+        input = document.getElementById("myInput");
+        filter = input.value.toUpperCase();
+        table = document.getElementById("myTable");
+        tr = table.getElementsByTagName("tr");
+        for (i = 0; i < tr.length; i++) {
+            td = tr[i].getElementsByTagName("td")[0];
+            if (td) {
+                txtValue = td.textContent || td.innerText;
+                if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                    tr[i].style.display = "";
+                } else {
+                    tr[i].style.display = "none";
+                }
+            }
+        }
+    }
+</script>

@@ -1,0 +1,77 @@
+﻿@model IEnumerable<ShopFlower.Models.Bill>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>List Bill</h1>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Address)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Total)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Status)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CreatedAt)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cus)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Staff)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (Bill item in ViewBag.Bill) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Address)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Total)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Status)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CreatedAt)
+            </td>
+            <td>
+                @{ 
+                    foreach(Customer c in ViewBag.Cus)
+                {
+                    if(item.CusId == c.CusId)
+                    {
+                        @c.CusName
+                            break;
+                        }
+                    }
+                }
+            </td>
+            <td>
+                @{ 
+                    foreach(Staff s in ViewBag.Staff)
+                {
+                    if(item.StaffId == s.StaffId)
+                    {
+                        @s.Username
+                           break;
+                        }
+                    }
+                }
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
